@@ -126,3 +126,32 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+## Reporting Violations
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team. All complaints will be reviewed and investigated promptly and fairly.
+
+**Report violations to:**
+- **Email**: altifydeveloping@gmail.com (Primary contact)
+- **Alternative Email**: alts@null.net
+- **Discord**: Report to moderators in our Discord community
+
+All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+
+## Community Guidelines
+
+This project aims to foster a community where:
+
+- All contributions are valued and respected
+- Diversity and inclusion are celebrated
+- Constructive criticism is welcome
+- Respect and professionalism are maintained at all times
+- Everyone feels safe to participate and contribute
+
+For more information, please visit the [Contributor Covenant](https://www.contributor-covenant.org/) website.
+
+---
+
+**Last Updated**: 2025
+**Version**: 2.1
+**Status**: Active
